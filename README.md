@@ -1,1 +1,3 @@
-# KevinPatel.github.io-HW-1-Easier
+# HW #1 - Building a Wireframe
+
+For this homework assignment, I built my first web design skeleton using HTML5 and CSS3.
